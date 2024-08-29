@@ -1,0 +1,572 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* OAMG
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20240126\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 10:11+0000\n"
+"PO-Revision-Date: 2024-08-28 18:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "20"
+msgstr "20"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__application
+msgid "Application"
+msgstr "应用"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Attribute"
+msgstr "属性"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_auther
+msgid "Author"
+msgstr "作者"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__auto_install
+msgid "Auto Install"
+msgstr "自动安装"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__binary
+msgid "Binary"
+msgstr "Binary"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__boolean
+msgid "Boolean"
+msgstr "Boolean"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__csv_file
+msgid "CSV File"
+msgstr "CSV 文件"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_category_id
+msgid "Category"
+msgstr "类别"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__char
+msgid "Char"
+msgstr "Char"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__contributors
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Contributors"
+msgstr "贡献者"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_copy
+msgid "Copy"
+msgstr "复制"
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.menu_dev_model
+msgid "Create Models"
+msgstr "创建模块"
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.menu_dev_class
+msgid "Create Module Structure"
+msgstr "创建模块结构"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__create_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__create_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__create_uid
+msgid "Created by"
+msgstr "创建者"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__create_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__create_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__create_date
+msgid "Created on"
+msgstr "创建于"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_data
+msgid "Data"
+msgstr "数据"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__date
+msgid "Date"
+msgstr "日期"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__default_val
+msgid "Default"
+msgstr "默认"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__depends
+msgid "Depends"
+msgstr "依赖"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__is_desc
+msgid "Descending Order"
+msgstr "降序"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_desc
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__description
+msgid "Description"
+msgstr "描述"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "Description of Model"
+msgstr "模型描述"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Description of Module"
+msgstr "模块描述"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Devintelle Consulting Serices Pvt Ltd."
+msgstr "开源之家odoo123."
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__display_name
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__display_name
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__name
+msgid "Field Name"
+msgstr "字段名称"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__f_string
+msgid "Field String"
+msgstr "字段 String"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__field_type
+msgid "Field Type"
+msgstr "字段类别"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__field_ids
+msgid "Fields"
+msgstr "字段"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__float
+msgid "Float"
+msgstr "浮点型"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Generate Module"
+msgstr "生成模块"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give Short description of the module"
+msgstr "模块简述"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give the Full Description of the Module"
+msgstr "模块的详细介绍"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give the Version of the module"
+msgstr "模块的版本"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Give the default value of the field"
+msgstr "字段的默认值"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__help_val
+msgid "Help"
+msgstr "帮助"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Help tooltip of the field"
+msgstr "字段帮助提示词"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__id
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__id
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__id
+msgid "ID"
+msgstr "ID"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "If Field is Many2many or Many2one then select related model"
+msgstr "如果字段为 Many2many 或 Many2one，则选择相关模型"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "In Which sequence module will display in module list"
+msgstr "模块将以何种顺序显示在模块列表中"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_index
+msgid "Index"
+msgstr "索引"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__installable
+msgid "Installable"
+msgstr "可安装"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__integer
+msgid "Integer"
+msgstr "整数"
+
+#. module: OAMG
+#: model_terms:ir.actions.act_window,help:OAMG.action_dev_model
+msgid "It Will Help to Create Model of the Module"
+msgstr "有助于创建模块模型"
+
+#. module: OAMG
+#: model_terms:ir.actions.act_window,help:OAMG.action_dev_class
+msgid "It Will Help to Create Module Structure"
+msgstr "这将有助于创建模块结构"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "It's show as application in module list"
+msgstr "在模块列表中显示为应用程序"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__json
+msgid "Json"
+msgstr "Json"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Label of the Field Ex. Name"
+msgstr "例如. name 字段标签"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class____last_update
+#: model:ir.model.fields,field_description:OAMG.field_dev_field____last_update
+#: model:ir.model.fields,field_description:OAMG.field_dev_model____last_update
+msgid "Last Modified on"
+msgstr "最后编辑于"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__write_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__write_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__write_uid
+msgid "Last Updated by"
+msgstr "最后更新人"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__write_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__write_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__write_date
+msgid "Last Updated on"
+msgstr "最后更新于"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Maifiest Files"
+msgstr "Maifiest 文件"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Make it true if you want show in tree view"
+msgstr "如果希望在树形视图中显示，则设置为 true"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__many2many
+msgid "Many2many"
+msgstr "多对多"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__many2one
+msgid "Many2one"
+msgstr "多对一"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Menu"
+msgstr "菜单"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__menu_name
+msgid "Menu Name"
+msgstr "菜单名称"
+
+#. module: OAMG
+#: model:ir.actions.act_window,name:OAMG.action_dev_model
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__model_id
+msgid "Model"
+msgstr "型号"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Model Lines"
+msgstr "模型明细"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "Model Menu Name"
+msgstr "模型菜单名称"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__name
+msgid "Model Name"
+msgstr "模型名称"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__model_ids
+msgid "Models"
+msgstr "型号"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__new_module
+msgid "Module"
+msgstr "模块"
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.dev_module
+msgid "Module Generator"
+msgstr "模块生成器"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__name
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Module Name"
+msgstr "模块名称"
+
+#. module: OAMG
+#: model:ir.actions.act_window,name:OAMG.action_dev_class
+msgid "Module Structure"
+msgstr "模块结构"
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.dev_class
+msgid "Modules"
+msgstr "模块"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_name
+msgid "Name"
+msgstr "名称"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Name of Module"
+msgstr "模块名字"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Name of the field Ex. name"
+msgstr "例如. name 字段名字"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__order_id
+msgid "Order"
+msgstr "指令"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__readme
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Readme"
+msgstr "Readme"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_readonly
+msgid "Readonly"
+msgstr "只读"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__rec_name_id
+msgid "Rec Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__related_model
+msgid "Related Model"
+msgstr "关联模型"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_required
+msgid "Required"
+msgstr "必填"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Select related Category of Module"
+msgstr "选择模块的相关类别"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_sequence
+msgid "Sequence"
+msgstr "排序"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Short Description of Module"
+msgstr "模块简介"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_view_tree
+msgid "Show in Tree"
+msgstr "Tree视图显示"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__sub_menu_name
+msgid "Sub Menu"
+msgstr "子菜单"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Sub Menu Name"
+msgstr "子菜单名称"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_summary
+msgid "Summary"
+msgstr "概要"
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__text
+msgid "Text"
+msgstr "Text"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__top_menu_name
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Top Menu Name"
+msgstr "顶部菜单名称"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Top Menu Name Of the Module"
+msgstr "顶部菜单 模块名称"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "True For install"
+msgstr "设为True则安装"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for Make it Required"
+msgstr "设为True则为必填项"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for dublicate record then pass it same"
+msgstr "如果公开记录为 True，则传递相同的信息"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for make it readonly"
+msgstr "设为True则只读"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for set index in field"
+msgstr "设为True则设为索引"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "True if you want to install this module when database creation time"
+msgstr "如果希望在创建数据库时安装该模块，则为 True"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Type of the Field"
+msgstr "字段类别"
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__version
+msgid "Version"
+msgstr "版本"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "View ERD"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_website
+msgid "Website"
+msgstr "网站"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Website of the author"
+msgstr "作者网站"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Who Write this module"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__nm_name
+msgid "Zip File Name"
+msgstr "Zip 文件名称"
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_class
+msgid "dev.class"
+msgstr "dev.class"
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_field
+msgid "dev.field"
+msgstr "dev.field"
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_model
+msgid "dev.model"
+msgstr "dev.model"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "devintellecs.com"
+msgstr "odoo123.com"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "school.school"
+msgstr "school.school"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "used only lower later and used '_' for join two work like 'school_management'"
+msgstr "后面只用低字节，并用\"_\"连接两个工作，如 \"school_management\"。"

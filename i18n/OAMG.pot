@@ -1,0 +1,572 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* OAMG
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20240126\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 10:11+0000\n"
+"PO-Revision-Date: 2024-08-28 10:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "20"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__application
+msgid "Application"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Attribute"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_auther
+msgid "Author"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__auto_install
+msgid "Auto Install"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__binary
+msgid "Binary"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__boolean
+msgid "Boolean"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__csv_file
+msgid "CSV File"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_category_id
+msgid "Category"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__char
+msgid "Char"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__contributors
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Contributors"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_copy
+msgid "Copy"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.menu_dev_model
+msgid "Create Models"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.menu_dev_class
+msgid "Create Module Structure"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__create_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__create_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__create_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__create_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_data
+msgid "Data"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__date
+msgid "Date"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__default_val
+msgid "Default"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__depends
+msgid "Depends"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__is_desc
+msgid "Descending Order"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_desc
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__description
+msgid "Description"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "Description of Model"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Description of Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Devintelle Consulting Serices Pvt Ltd."
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__display_name
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__display_name
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__name
+msgid "Field Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__f_string
+msgid "Field String"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__field_type
+msgid "Field Type"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__field_ids
+msgid "Fields"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__float
+msgid "Float"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Generate Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give Short description of the module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give the Full Description of the Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Give the Version of the module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Give the default value of the field"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__help_val
+msgid "Help"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Help tooltip of the field"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__id
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__id
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__id
+msgid "ID"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "If Field is Many2many or Many2one then select related model"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "In Which sequence module will display in module list"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_index
+msgid "Index"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__installable
+msgid "Installable"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__integer
+msgid "Integer"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.actions.act_window,help:OAMG.action_dev_model
+msgid "It Will Help to Create Model of the Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.actions.act_window,help:OAMG.action_dev_class
+msgid "It Will Help to Create Module Structure"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "It's show as application in module list"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__json
+msgid "Json"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Label of the Field Ex. Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class____last_update
+#: model:ir.model.fields,field_description:OAMG.field_dev_field____last_update
+#: model:ir.model.fields,field_description:OAMG.field_dev_model____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__write_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__write_uid
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__write_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__write_date
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Maifiest Files"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Make it true if you want show in tree view"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__many2many
+msgid "Many2many"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__many2one
+msgid "Many2one"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Menu"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__menu_name
+msgid "Menu Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.actions.act_window,name:OAMG.action_dev_model
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__model_id
+msgid "Model"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Model Lines"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "Model Menu Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__name
+msgid "Model Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__model_ids
+msgid "Models"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__new_module
+msgid "Module"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.dev_module
+msgid "Module Generator"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__name
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Module Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.actions.act_window,name:OAMG.action_dev_class
+msgid "Module Structure"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.ui.menu,name:OAMG.dev_class
+msgid "Modules"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_name
+msgid "Name"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Name of Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Name of the field Ex. name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__order_id
+msgid "Order"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__readme
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Readme"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_readonly
+msgid "Readonly"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_model__rec_name_id
+msgid "Rec Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__related_model
+msgid "Related Model"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_required
+msgid "Required"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Select related Category of Module"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_sequence
+msgid "Sequence"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Short Description of Module"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_field__is_view_tree
+msgid "Show in Tree"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__sub_menu_name
+msgid "Sub Menu"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Sub Menu Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_summary
+msgid "Summary"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields.selection,name:OAMG.selection__dev_field__field_type__text
+msgid "Text"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__top_menu_name
+msgid "Top Menu"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Top Menu Name"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Top Menu Name Of the Module"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "True For install"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for Make it Required"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for dublicate record then pass it same"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for make it readonly"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "True for set index in field"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "True if you want to install this module when database creation time"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_field_form
+msgid "Type of the Field"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__version
+msgid "Version"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "View ERD"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__o_website
+msgid "Website"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Website of the author"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "Who Write this module"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model.fields,field_description:OAMG.field_dev_class__nm_name
+msgid "Zip File Name"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_class
+msgid "dev.class"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_field
+msgid "dev.field"
+msgstr ""
+
+#. module: OAMG
+#: model:ir.model,name:OAMG.model_dev_model
+msgid "dev.model"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid "devintellecs.com"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_model_form
+msgid "school.school"
+msgstr ""
+
+#. module: OAMG
+#: model_terms:ir.ui.view,arch_db:OAMG.view_dev_class_form
+msgid ""
+"used only lower later and used '_' for join two work like "
+"'school_management'"
+msgstr ""
